@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://img.icons8.com/3d-fluency/128/iphone.png" width="100" alt="iPhone">
-
 # 📱 iPhone Gallery Cleaner
 
 ### Просмотр фото и видео с iPhone на Windows — без iTunes, без копирования всего подряд
