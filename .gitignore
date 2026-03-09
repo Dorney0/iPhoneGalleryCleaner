@@ -1,0 +1,42 @@
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+env/
+
+# Папка с настройками IDE (PyCharm)
+.idea/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Файлы с локальными настройками
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Дистрибутивы и сборка
+dist/
+build/
+*.egg-info/
+
+# Логи и базы данных
+*.log
+*.db
+*.sqlite3
+
+# Временные файлы
+*.tmp
+*.temp
+*.bak
+
+# Файлы с секретами (если будут)
+.env
+*.env
